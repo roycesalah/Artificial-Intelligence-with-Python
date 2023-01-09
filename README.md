@@ -3,7 +3,7 @@ Projects completed in Harvard's Artificial Intelligence with Python course
 
 # Projects
 ---
-**Project 1 Degrees of Separation** : Implement a search algorithm to identify how many degrees of separation any two actors are apart based on movies they've starred in
+**Project 1 Degrees of Separation** : Implement a search algorithm to identify how many degrees of separation any two actors are apart based on movies they've starred in /n
 **Project 2 Tic-Tac-Toe** - Minimax algorithm based AI which is trained to play tic-tac-toe optimally
 **Project 3 Minesweeper** - Utilize propositional logic to successfully complete a game of Minesweeper
 **Project 4 Pagerank** - Implement Google's famous PageRank algorithm to determine the importance/relevance of a given webpage
